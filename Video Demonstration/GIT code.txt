@@ -1,9 +1,0 @@
-1.) git config --global user.name ""
-2.) git config --global user.email "" 
-3.) git clone (Website Link) #copy the link from github either from search bar  or http 
-4.) cd (Folder Name)
-#now copy your project files and add to that folder
-5.) git status
-6.) git add .
-7.) git commit -m ""
-8.) git push origin master or main
